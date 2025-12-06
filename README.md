@@ -35,7 +35,7 @@ Automatizar la identificación de enfermedades en hojas de banano para apoyar de
 ```bash
 .
 ├─ banana-gpu.ipynb
-├─ requirements.txt              # (si existe)
+├─ requirements.txt              # privado
 ├─ train/                        # (opcional / dataset)
 ├─ test/                         # (opcional / dataset)
 ├─ val/                          # (opcional / dataset)
